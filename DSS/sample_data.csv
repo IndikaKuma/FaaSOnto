@@ -1,0 +1,11 @@
+﻿FaaS Platform;Installation Type;Runtime Customization;Github Stars;Stackoverflow questions
+AWS Lambda;As-a-service;yes;;16800
+Apache OpenWhisk;Installable;yes;4800;198
+Fission;Installable;yes;5200;7
+Fn Project;Installable;yes;4900;30
+Google Cloud Funtions;As-a-service;no;;12386
+Knative;Installable;yes;3600;93
+Kubeless;Installable;yes;6400;12
+Microsoft Azure Functions;As-a-service;yes;;7200
+Nuclio;Installable;yes;3818;6
+OpenFaaS;Installable;yes;19400;45
